@@ -24,7 +24,7 @@
 ### Решение ###
 
 * Для начала работы над решением нужно: **создать** `private reposritory`, сделав [fork](https://confluence.atlassian.com/bitbucket/forking-a-repository-221449527.html) этого проекта в свой [Bitbucket аккаунт](https://bitbucket.org/account/signup), **дать права** на чтение пользователю [ismagilov](https://bitbucket.org/ismagilov).
-* После выполнения задания нужно отправить на почту ilya@faidon.com письмо с темой "HWBS Java Developer" и ссылкой на свой репозиторий с кодом решения
+* После выполнения задания нужно отправить на почту ilya@faidon.com письмо с темой "HWBS Java Developer" и ссылкой на свой репозиторий с кодом решения.
 
 ### Указания ###
 
