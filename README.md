@@ -35,4 +35,4 @@
 * Если нужно внести изменения в схему или настройки базы, то это можно делать путем редактирования V1__create.sql (перед этим придется вручную удалить уже созданную базу).
 * URL соединения к базе можно брать из класса [DatabaseContextListener](https://bitbucket.org/singulator/com.faidon.job.hwbs.unique-numbers/src/master/src/main/java/com/faidon/job/hwbs/un/server/DatabaseContextListener.java?at=master&fileviewer=file-view-default).
 
-**Удачи!**
+##Удачи!##
