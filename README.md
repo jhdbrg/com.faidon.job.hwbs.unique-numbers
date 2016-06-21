@@ -1,6 +1,6 @@
 ## Тестовое задание на вакансию **[HWBS Java Developer](https://moikrug.ru/vacancies/1000005277)**
 
-### Описание ###
+### Описание
 
 Нужно создать веб приложение, используя [стандартный GWT](http://www.gwtproject.org), любую технологию для доступа к базе, любую технологию для клиент-серверного взаимодействия, [HSQLDB](hsqldb.org) и [Maven](https://maven.apache.org).
 
@@ -25,12 +25,12 @@
 * Корректную работу с приложением из нескольких окон браузера.
 * Обновление в реальном времени данных на странице: таблица и надпись с количеством записей.
 
-### Решение ###
+### Решение
 
 * Для начала работы над решением нужно: **создать** `private reposritory`, сделав [fork](https://confluence.atlassian.com/bitbucket/forking-a-repository-221449527.html) этого проекта в свой [Bitbucket аккаунт](https://bitbucket.org/account/signup), **дать права** на чтение пользователю [ismagilov](https://bitbucket.org/ismagilov).
 * После выполнения задания нужно отправить на почту ilya@faidon.com письмо с темой "HWBS Java Developer" и ссылкой на свой репозиторий с кодом решения.
 
-### Указания ###
+### Указания
 
 * Проект запускается из командной строки: `mvn gwt:run`. В решении запуск должен остаться таким же.
 * Если проект уже запущен, то изменения в клиентском коде появляются после обновления страницы в браузере. Для появления серверных изменений нужно делать `Restart Server` в закладке `Jetty` диалога  `GWT Development Mode`.
@@ -39,4 +39,4 @@
 * Если нужно внести изменения в схему или настройки базы, то это можно делать путем редактирования V1__create.sql (перед этим придется вручную удалить уже созданную базу).
 * URL соединения к базе можно брать из класса [DatabaseContextListener](https://bitbucket.org/singulator/com.faidon.job.hwbs.unique-numbers/src/master/src/main/java/com/faidon/job/hwbs/un/server/DatabaseContextListener.java?at=master&fileviewer=file-view-default).
 
-##Удачи!##
+## Удачи! :wink:
